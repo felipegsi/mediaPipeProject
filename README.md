@@ -20,5 +20,4 @@ Este repositório contém um código Python que permite controlar o cursor do co
 - Python 3.x instalado
 - Bibliotecas: `cv2`, `mediapipe`, `pyautogui`, `tkinter`
 
-## Como Executar
 
