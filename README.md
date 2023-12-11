@@ -1,4 +1,4 @@
-# Controle de Mouse por Movimento da Mão
+# Controle de Mouse por Gestos Manuais
 
 Este repositório contém um código Python que permite controlar o cursor do computador utilizando o reconhecimento de movimentos da mão pela câmera. Através das bibliotecas MediaPipe e OpenCV, o código identifica a posição dos dedos, possibilitando interações intuitivas com o sistema por meio de gestos simples.
 
